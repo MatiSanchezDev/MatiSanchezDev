@@ -1,4 +1,4 @@
-<h1>Hello! soy Matias 👋</h1>
+<h1>Hola! soy Matias 👋</h1>
 <h2>Frontend Developer 🎨</h2>
 
 ### Sobre mi
