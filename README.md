@@ -15,7 +15,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  ![Zustands](https://img.shields.io/badge/-Zustands-333333?style=flat&logo=redux)
+  ![Zustand](https://img.shields.io/badge/-Zustand-333333?style=flat&logo=zustand)
   <br/>
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
