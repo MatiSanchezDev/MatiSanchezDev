@@ -2,7 +2,7 @@
 <h2>Frontend Developer 🎨</h2>
 
 ### Sobre mi
-- Tengo 28 años y soy de Curuzú Cuatiá Corrientes.
+- Soy de Curuzú Cuatiá Corrientes Argentina.
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
 - Disfruto trabajando con el frontend porque quiero brindar la mejor experiencia visual a los usuarios que visitan mis proyectos.
 
